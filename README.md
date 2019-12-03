@@ -1,7 +1,7 @@
 # FullStack
 
 PWA E-commerce project
-![](work/homescreen.png)
+![](work/homescreen2.png)
 
 # Project Title
 
@@ -10,7 +10,15 @@ That also can be put on your homescreen just like a native app!
 
 # PWA Audits
 
+This initial screenshot is before learning the PWA metrics and how they function.
+
 ![](work/beforepwa.png)
+
+```
+This screenshot is after learning the PWA metrics and how they function.
+
+```
+
 ![](work/afterpwa.png)
 
 ## Getting Started
@@ -31,12 +39,6 @@ Give examples
 ### Installing
 
 must be in client to use NPM start
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-will have to do npm run test
 
 ## Authors
 
