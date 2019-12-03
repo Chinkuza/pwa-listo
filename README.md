@@ -1,10 +1,17 @@
 # FullStack
 
-fullstack E-commerce project
+PWA E-commerce project
+![](work/homescreen.png)
 
 # Project Title
 
 MY E-commerce website with MongoDB and node.js
+That also can be put on your homescreen just like a native app!
+
+# PWA Audits
+
+![](work/beforepwa.png)
+![](work/afterpwa.png)
 
 ## Getting Started
 
@@ -31,17 +38,9 @@ Explain how to run the automated tests for this system
 
 will have to do npm run test
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ## Authors
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Juan Rosario
 
 ## License
 
