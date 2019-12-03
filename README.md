@@ -4,7 +4,7 @@ fullstack E-commerce project
 
 # Project Title
 
-MY E-commerce website with sql server and node.js
+MY E-commerce website with MongoDB and node.js
 
 ## Getting Started
 
