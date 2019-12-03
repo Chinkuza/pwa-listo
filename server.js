@@ -49,7 +49,7 @@ app.use("/api/users", usersRoutes);
 // Define any API routes before this runs
 // if (process.env.NODE_ENV === "production") {
 app.get("*", function(req, res) {
-  res.sendFile(path.join(__dirname, "./client/index.html"));
+  res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
 // } else {
 //   app.get("*", function(req, res) {
