@@ -1,7 +1,7 @@
 # FullStack
 
 PWA E-commerce project
-![](work/homescreen2.png)
+![](work/finalapp.png)
 
 # Project Title
 
