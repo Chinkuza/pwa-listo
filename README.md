@@ -1,3 +1,8 @@
+```
+This app uses a manifest file and service worker to create a native like application accesible on most modern devices
+https://pwalisto.herokuapp.com
+```
+
 # Progressive Web App
 
 PWA E-commerce project
